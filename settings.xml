@@ -12,6 +12,11 @@
     </proxy>
   </proxies>
 
+
+
+
+
+
   <mirrors>
     <mirror>
       <!--This is used to direct the public snapshots repo in the 
